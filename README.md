@@ -17,4 +17,5 @@ Meu nome é Eloah guerra mas podem me chamar de lola!
 [![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eloah.faria@escola.pr.gov.br)
 
 ![Alt](https://media.tenor.com/geAnWFRjmT0AAAAC/taylor-swift-taylor.gif)
-![download](https://github.com/eloahguerra/eloahguerra/assets/146108168/0071c04d-5614-4ce9-944a-0575fc68d907)
+![taylor-swift](https://github.com/eloahguerra/eloahguerra/assets/146108168/e3730d95-41c4-412d-aa02-9d1d761b2023)
+
