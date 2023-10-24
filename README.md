@@ -1,4 +1,12 @@
-### Olá! Eu sou a Eloah Guerra, mas me chamam de lola, tenho 15 anos sou swifitie, a seguir minhas redes sociais para você me acompanhar! bjs <3 ✌️
+### Oii pessoal sejam bem vindos ao meu perfil :eloah_guerra
+
+Meu nome é Eloah guerra mas podem me chamar de lola!
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Sou swifitie e adoro desenhar no tempo livre! espero que gostem do meu perfil, bjs <3
+### Você pode entrar em contato comigo nas redes abaixo
 
 
 
